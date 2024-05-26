@@ -1,0 +1,1 @@
+AiVibe, an AI-generated video sharing App, users can post videos they've made using a variety of AI platforms or tools, along with special prompts that help them create the videos, which they can now share with others.
